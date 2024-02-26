@@ -1,0 +1,16 @@
+Name	School	Year	Position	Rank(by experts)	height	weight
+Dallas Turner	Alabama	Jr	EDGE	1	6-4	252		
+Laiatu Latu	UCLA	Sr	EDGE	2	6-5	265		
+Jared Verse	Florida State	Jr	EDGE	3	6-4	260		
+Chop Robinson	Penn State	Jr	EDGE	4	6-3	254		
+Bralen Trice	Washington	Jr	EDGE	5	6-4	274		
+Chris Braswell	Alabama	Sr	EDGE	6	6-3	255		
+Gabriel Murphy	UCLA	Jr	EDGE	7	6-3	260		
+Zion Tupuola-Fetui	Washington	Sr	EDGE	8	6-4	254		
+Adisa Isaac	Penn State	Sr	EDGE	9	6-4	249		
+Xavier Thomas	Clemson	Sr	EDGE	10	6-2	245		
+Nelson Ceaser	Houston	Jr	EDGE	11	6-3	250		
+Jonah Elliss	Utah	Jr	EDGE	12	6-2	246		
+Cedric Johnson	Ole Miss	Sr	EDGE	13	6-3	265
+Austin Booker   KANSAS  Soph    EDGE    15  6-6 245
+Marshawn Kneeland	W. Michigan	Jr	EDGE    7	6-3	275		
